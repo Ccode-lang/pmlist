@@ -1,4 +1,4 @@
 $ This is the package list for my new package manager
 
 debug ^ https://github.com/Ccode-lang/debug
-oldlike ^ https://raw.githubusercontent.com/Ccode-lang/oldlike/release/oldlike
+
